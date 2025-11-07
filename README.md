@@ -3,6 +3,8 @@ CellSignal: Disentangling biological signal from experimental noise in cellular 
 
 
 Description:
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/f161ff0e-6b90-4fa3-b9f6-4d9dc4f3d10f" />
+
 
 The cost of some drugs and medical treatments has risen so high in recent years that many patients are having to go without. You can help with a classification project that could make researchers more efficient.
 
