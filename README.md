@@ -18,8 +18,10 @@ If successful, you could dramatically improve the industry’s ability to model 
 
 This competition is a part of the NeurIPS 2019 competition track. Winners will be invited to contribute their solutions towards the workshop presentation.
 
-Acknowledgments
+Acknowledgments:
+
 Thank you to the following sponsors & supporters of this competition:
+
 Google Cloud: Google Cloud is widely recognized as a global leader in delivering a secure, open and intelligent enterprise cloud platform. Our technology is built on Google’s private network and is the product of nearly 20 years of innovation in security, network architecture, collaboration, artificial intelligence and open source software. We offer a simply engineered set of tools and unparalleled technology across Google Cloud Platform and G Suite that help bring people, insights and ideas together. Customers across more than 150 countries trust Google Cloud to modernize their computing environment for today’s digital world.
 
 
